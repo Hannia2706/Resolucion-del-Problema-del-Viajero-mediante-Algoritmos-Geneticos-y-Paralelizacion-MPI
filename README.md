@@ -1,2 +1,3 @@
-# Evolutionary-Programming-through-Parallelization-with-MPI
-The following project corresponds to the subject of high-performance computing at UNAM Morelia campus.
+# Programación evolutiva mediante paralelización con MPI
+
+El siguiente proyecto corresponde a la materia de cómputo de alto rendimiento de la UNAM campus Morelia.
