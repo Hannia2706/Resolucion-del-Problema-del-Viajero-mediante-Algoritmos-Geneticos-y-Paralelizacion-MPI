@@ -1,4 +1,4 @@
-# Programación evolutiva mediante paralelización con MPI
+## “Resolución eficiente del Problema del Viajero mediante Algoritmos Genéticos y Paralelización MPI”
 
 El siguiente proyecto corresponde a la materia de cómputo de alto rendimiento de la UNAM campus Morelia.
 
