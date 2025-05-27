@@ -25,3 +25,6 @@ En este proyecto se emplea el patrón maestro-esclavo para paralelizar el algori
 ## Tiempo de ejecución de acuerdo al número de hilos.
 <img width="690" alt="image" src="https://github.com/user-attachments/assets/9192d15d-b69d-4da0-9ae1-1f305fbb677e" />
 
+## Ejemplo de solución 
+<img width="1295" alt="image" src="https://github.com/user-attachments/assets/3066179b-d2d6-41a0-90a3-fd7c34080e0c" />
+
