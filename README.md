@@ -28,3 +28,6 @@ En este proyecto se emplea el patrón maestro-esclavo para paralelizar el algori
 ## Ejemplo de solución 
 <img width="1295" alt="image" src="https://github.com/user-attachments/assets/3066179b-d2d6-41a0-90a3-fd7c34080e0c" />
 
+## Evolución
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/09ff923c-a3e1-4a42-9542-5ebfa3fbca5c" />
+<img width="966" alt="image" src="https://github.com/user-attachments/assets/ce5ff64c-0722-4fe8-bc63-bd94beb719b4" />
