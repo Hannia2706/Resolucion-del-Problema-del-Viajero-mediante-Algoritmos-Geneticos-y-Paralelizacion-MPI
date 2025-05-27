@@ -21,3 +21,7 @@ El algoritmo emplea cruce PMX (Partially-Mapped Crossover) para combinar pares d
 <img width="637" alt="image" src="https://github.com/user-attachments/assets/d1c7f102-5176-427b-bf39-79d14e2ff564" />
 
 En este proyecto se emplea el patrón maestro-esclavo para paralelizar el algoritmo genético: en cada generación se divide la población global en bloques contiguos que asigna a los demás procesos. Cada esclavo recibe su subpoblación, crea la descendencia correspondiente y, al terminar, envía de vuelta ese bloque de individuos al maestro. Con los resultados de todos los esclavos, el maestro recompone la población completa y pasa a la siguiente generación. 
+
+## Tiempo de ejecución de acuerdo al número de hilos.
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/9192d15d-b69d-4da0-9ae1-1f305fbb677e" />
+
