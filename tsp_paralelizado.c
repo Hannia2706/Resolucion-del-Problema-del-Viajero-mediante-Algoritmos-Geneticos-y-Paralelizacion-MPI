@@ -220,7 +220,7 @@ Solucion* poblacion_inicial(int N, int tam_pob, int** m) {
     for (int i = 0; i < N; i++) ciudades[i] = i;
 
     for (int i = 0; i < tam_pob; i++) {
-        // Fisher–Yates
+        
         for (int j = 0; j < N; j++) {
             int k = j + rand() % (N - j);
             int tmp = ciudades[j]; ciudades[j] = ciudades[k]; ciudades[k] = tmp;
